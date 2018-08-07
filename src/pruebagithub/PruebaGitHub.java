@@ -16,6 +16,9 @@ public class PruebaGitHub {
      */
     public static void main(String[] args) {
         System.out.println("PRUEBA CON GIT");
+        
+         System.out.println("Iniciando Proyecto java con Git");
+        
     }
     
 }
