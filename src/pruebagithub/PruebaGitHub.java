@@ -18,6 +18,11 @@ public class PruebaGitHub {
         System.out.println("PRUEBA CON GIT");
         
          System.out.println("Iniciando Proyecto java con Git");
+         
+          System.out.println("niciando proyecto con Netbeans  VERSION 3");
+         
+   
+          
         
     }
     
